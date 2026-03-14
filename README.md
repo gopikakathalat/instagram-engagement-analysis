@@ -24,7 +24,7 @@ This project analyzes personal Instagram interaction data to understand engageme
 - Following Trend Analysis
 
 ## Tableau Dashboard
-[Insert Tableau Public Link Here]
+https://public.tableau.com/views/InstagramEngagementBehaviourAnalysis/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Key Insights
 - Instagram activity peaks during evening hours.
